@@ -9,7 +9,7 @@ A beautiful UI chrome extension to play music stored in the "music folder" using
 # Add to your chrome 
 
 
->To open up your extensions page, click the menu icon (three dots) at the top right of Chrome, point to “More Tools,” then click on “Extensions.” You can also type chrome://extensions/ into Chrome's Omnibox and press Enter.\n
+>To open up your extensions page, click the menu icon (three dots) at the top right of Chrome, point to “More Tools,” then click on “Extensions.” You can also type chrome://extensions/ into Chrome's Omnibox and press Enter.
 
 
 
@@ -21,4 +21,4 @@ A beautiful UI chrome extension to play music stored in the "music folder" using
 
 
 
-\nYou are all set!!!
+You are all set!!!
