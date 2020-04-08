@@ -9,7 +9,7 @@ A beautiful UI chrome extension to play music stored in the "music folder" using
 # Add to your chrome 
 
 
->To open up your extensions page, click the menu icon (three dots) at the top right of Chrome, point to “More Tools,” then click on “Extensions.” You can also type chrome://extensions/ into Chrome's Omnibox and press Enter.
+>To open up your extensions page, click the menu icon (three dots) at the top right of Chrome, point to “More Tools,” then click on “Extensions.” You can also type chrome://extensions/ into Chrome's Omnibox and press Enter.<br><br> 
 
 
 
@@ -17,8 +17,8 @@ A beautiful UI chrome extension to play music stored in the "music folder" using
 
 
 
->Then click Load unpacked  open this folder where manifest.jason is located
+>Then click Load unpacked  open this folder where manifest.jason is located<br>
 
 
 
-You are all set!!!
+<br>You are all set!!!
